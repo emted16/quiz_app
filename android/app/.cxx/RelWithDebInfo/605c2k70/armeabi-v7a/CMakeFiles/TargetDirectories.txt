@@ -1,0 +1,2 @@
+C:/Users/EMTED/Desktop/Projects/quizz_app/quiz_app/android/app/.cxx/RelWithDebInfo/605c2k70/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/EMTED/Desktop/Projects/quizz_app/quiz_app/android/app/.cxx/RelWithDebInfo/605c2k70/armeabi-v7a/CMakeFiles/rebuild_cache.dir
