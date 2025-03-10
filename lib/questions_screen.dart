@@ -12,12 +12,31 @@ class QuestionsScreen extends StatefulWidget {
 class _QuestionsScreenState extends State<QuestionsScreen> {
   @override
   Widget build(context) {
-    return const Center(
+    return Center(
       child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
-        Text(
-          'Quiz is Starting MadaFaka',
+        const Text(
+          'Questions List...',
           style: TextStyle(color: Colors.white, fontSize: 24),
-        )
+        ),
+        const SizedBox(
+          height: 30,
+        ),
+        ElevatedButton(
+          onPressed: () {},
+          child: const Text('Answer 1'),
+        ),
+        ElevatedButton(
+          onPressed: () {},
+          child: const Text('Answer 2'),
+        ),
+        ElevatedButton(
+          onPressed: () {},
+          child: const Text('Answer 3'),
+        ),
+        ElevatedButton(
+          onPressed: () {},
+          child: const Text('Answer 4'),
+        ),
       ]),
     );
   }
